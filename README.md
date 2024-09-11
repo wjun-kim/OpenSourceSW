@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Wonjun%20Kim&fontSize=30))
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Wonjun%20Kim&fontSize=30)
 
 # 반가워요! [WonJun](https://github.com/wjun-kim/OpenSourceSW)의 repository입니다.
 
