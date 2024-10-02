@@ -1,5 +1,5 @@
 ## turtle_runaway.md
-![Alt text](/turtle_runaway.png)
+![Alt text](/https://github.com/wjun-kim/OpenSourceSW/blob/main/4th%20Week/turtle_runaway.png)
 
 * 시작과 함께 타이머가 작동되며 chaser_turtle이 사용자의 runner_turtle을 쫒아온다.
 * 사용자는 상하좌우 키를 눌러 움직이며 도망갈 수 있다.
